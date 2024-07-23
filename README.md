@@ -5,24 +5,36 @@
 MSc, Data Science | University of Bristol, United Kingdom
 
 ### University projects
-All available here: 
 
-![University projects](https://img.shields.io/badge/GitHub-View_in_GitHub-blue?logo=GitHub)
+- **Industry project**: *Predicting T-Cell receptor specificity from TCR chains*
 
-- Using Conditional Random Field (CRF) for named entity recognition on MEDLINE data (collier et al., 2005)
-- Industry project to predict T-Cell receptor specificity from TCR chains (not public but can show work privately)
-- Sentiment Analysis on news and social media data (Maia et al., 2018) using Bayesian network (Latent Dirichlet allocation).
+    [![Badge Text](https://img.shields.io/badge/GitHub-View_article-blue?logo=GitHub&color=green)](https://github.com/vulcanfox/adnan-portfolio/blob/main/industry-project-report.pdf) *(Redacted some names/emails for privacy of team members)*
+
+- **Natural language processing** work covering:
+    - *Using Conditional Random Field (CRF) for named entity recognition on MEDLINE data (collier et al., 2005).*
+    - *Sentiment Analysis on news and social media data (Maia et al., 2018) using Bayesian network (Latent Dirichlet allocation).*
+
+
+    [![Badge Text](https://img.shields.io/badge/GitHub-See_report-blue?logo=GitHub&color=blue)](https://github.com/vulcanfox/wild-apple-seed/blob/main/NLP%20and%20tableau%20data%20viz%20report.pdf) [![Badge Text](https://img.shields.io/badge/GitHub-View_code-blue?logo=GitHub&color=purple)](https://github.com/vulcanfox/DA-project)
+
+    Also includes Tableau Visualisations.
+
+
+
 
 
 ---
 
-### Spare time projects
-All available here: 
+### Side projects
 
-![Spare time projects](https://img.shields.io/badge/GitHub-View_in_GitHub-blue?logo=GitHub&color=red)
+Including:
 
-- Classifying brain tumors using MRI scans 
-- Detecting oil tanks from satellite imagery
+- *Classifying brain tumors using MRI scans*
+    
+    - [![Badge Text](https://img.shields.io/badge/GitHub-View_code-blue?logo=GitHub&color=purple)](https://github.com/vulcanfox/wild-apple-seed/blob/main/brain-tumour-classification.ipynb)
+- *Detecting oil tanks from satellite imagery*
+
+    - [![Badge Text](https://img.shields.io/badge/GitHub-View_code-blue?logo=GitHub&color=purple)](https://github.com/vulcanfox/wild-apple-seed/blob/main/oil-tank-detection.ipynb)
 
 ---
         
