@@ -54,4 +54,4 @@ services. Conduct and create demos and designs.
 ### Certifications
 - **Microsoft Certified: Azure Data Scientist Associate**
 - **Microsoft 70-473: Designing and Implementing Cloud Data Platform Solutions** 
-- **MCSE Cloud platform and infrastructure**
+- **Microsoft Certified Solutions Expert: Cloud platform and infrastructure**
