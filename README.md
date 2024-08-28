@@ -41,6 +41,22 @@ Including:
 
 ### Work experience
 
+**Data scientist at Aura Analytics**
+- **Develop Predictive Models**: Design, develop, and implement machine learning models to predict trends and patterns in real-time data streams using Python, Azure Machine Learning.
+- **Data Exploration and Cleansing**: Perform data exploration, preprocessing, and feature engineering on large-scale streaming datasets, ensuring high data quality and accuracy.
+- **Stream Data Processing**: Utilize Azure Stream Analytics to process and analyze real-time data streams from IoT devices, web logs, and other sources to deliver actionable insights.
+
+**Project lead, University of Bristol working with Etcembly Ltd**
+
+*Predicting T-Cell receptor specificity.*
+- Collected TCR sequences from VDjdb.
+- Created distance matrix representations for alpha, beta, and paired alpha-beta chains using tcrdist3.
+- Applied PCA, followed by t-SNE was used for dimensionality reduction of the dataset. Compared with
+custom deep learning approach.
+- Clustered chains based on specificity using the GIANA algorithm which produced promising results.
+- **Findings**: Deep learning approach was more effective at separating the data compared with dimensionality
+reduction using PCA and t-SNE. A prediction algorithm was also created, to predict epitopes based on TCR sequences. The model performed competitively on the epitope prediction task.
+
 **Principal Technologist (Content Author) at Civica  - Microsoft supplier** *(June 2019 — May 2024)*
 - Create learning content for Microsoft Learn
 certifications, and courses. I cover all Microsoft technologies but 
