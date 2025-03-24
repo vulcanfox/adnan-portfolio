@@ -2,7 +2,7 @@
 ### Education
 
 - MSc, Data Science | University of Bristol, United Kingdom
-- BA, Business Studies | University of The West of England, United Kingdom
+- Bachelors, Business Studies | University of The West of England, United Kingdom
 
 ### University projects
 
