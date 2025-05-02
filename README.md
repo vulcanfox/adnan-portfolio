@@ -4,7 +4,7 @@
 - MSc, Data Science | University of Bristol, United Kingdom
 - Bachelors, Business Studies | University of The West of England, United Kingdom
 
-### University projects
+### Interesting projects
 
 - **Industry project**: *Predicting T-Cell receptor specificity from TCR chains*
 
