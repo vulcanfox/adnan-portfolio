@@ -33,8 +33,3 @@ Including:
 
     - [![Badge Text](https://img.shields.io/badge/GitHub-View_code-blue?logo=GitHub&color=purple)](https://github.com/vulcanfox/wild-apple-seed/blob/main/oil-tank-detection.ipynb)
 
----
-- Lead Azure workshops for internal Microsoft teams, both technical and non-technical individuals. Several teams and individuals met and exceeded target engagement and sales targets as a direct result.
-- Attained multiple certifications to meet project standards and Microsoft KPI.  
-**Technologies**: Azure Data Analytics services, such as Azure Data Warehouse, Data Lake, Stream analytics,  Azure IoT, SQL, CosmosDB, Power BI, and more.
-
