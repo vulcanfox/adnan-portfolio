@@ -6,7 +6,7 @@
 
 ### Interesting projects
 
-- **Industry project**: *Predicting T-Cell receptor specificity from TCR chains*
+- **Industry project for Etcembly on behalf of University of Bristol**: *Predicting T-Cell receptor specificity from TCR chains*
 
     [![Badge Text](https://img.shields.io/badge/GitHub-View_article-blue?logo=GitHub&color=green)](https://github.com/vulcanfox/adnan-portfolio/blob/main/industry-project-report.pdf) *(Redacted some names/emails for privacy of team members)*
 
